@@ -137,7 +137,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/vue-next-issue/";
+/******/ 	__webpack_require__.p = "/vue-loader-issue/";
 /******/
 /******/ 	var jsonpArray = window["webpackJsonp"] = window["webpackJsonp"] || [];
 /******/ 	var oldJsonpFunction = jsonpArray.push.bind(jsonpArray);
@@ -267,7 +267,7 @@ var routes = [// {
   // }
 ];
 var router = Object(vue_router_esm_bundler["a" /* createRouter */])({
-  history: Object(vue_router_esm_bundler["b" /* createWebHistory */])("/vue-next-issue/"),
+  history: Object(vue_router_esm_bundler["b" /* createWebHistory */])("/vue-loader-issue/"),
   routes: routes
 });
 /* harmony default export */ var src_router = (router);
@@ -307,4 +307,4 @@ Object(vue_runtime_esm_bundler["b" /* createApp */])(App).use(store).use(src_rou
 /***/ })
 
 /******/ });
-//# sourceMappingURL=app.e7dd360b.js.map
+//# sourceMappingURL=app.ae4d8693.js.map
